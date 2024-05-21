@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/furrl/static/css/main.ab5eb5c8.css",
+    "main.js": "/furrl/static/js/main.6e5c2a97.js",
+    "static/js/453.3ee1a330.chunk.js": "/furrl/static/js/453.3ee1a330.chunk.js",
+    "index.html": "/furrl/index.html",
+    "main.ab5eb5c8.css.map": "/furrl/static/css/main.ab5eb5c8.css.map",
+    "main.6e5c2a97.js.map": "/furrl/static/js/main.6e5c2a97.js.map",
+    "453.3ee1a330.chunk.js.map": "/furrl/static/js/453.3ee1a330.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab5eb5c8.css",
+    "static/js/main.6e5c2a97.js"
+  ]
+}

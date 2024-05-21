@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import "./index.css";
 import Navbar from "../Navbar";
-import CategoryFilters from "../CategoryFilters";
+import CategoryFilters from "../Category";
 import ProductList from "../ProductList";
 import Loader from "../Loader";
 
@@ -133,7 +133,7 @@ const Home = () => {
     <>
       <Navbar />
       <div className="home-bg-banner">
-        <h2 className="home-hunts-banner-heading">#HomeHunts</h2>
+        <h2 className="home-hunts-banner-heading">HomeHunts</h2>
       </div>
       <div className="products-container">
         <p className="shop-products-title">
